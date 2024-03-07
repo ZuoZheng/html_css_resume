@@ -1,9 +1,9 @@
 # First Azure Project in GitHub
 Purpose 
 
-Create a web version CV.
+<p>Create a web version CV.</p>
 
-Tech Stack
+<p>Tech Stack</p>
 Azure
 Git Action
 GitHub
