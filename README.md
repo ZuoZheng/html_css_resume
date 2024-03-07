@@ -3,8 +3,8 @@
 
 <p>Create a web version CV.</p>
 
-<p>Tech Stack</p>
-<ul><li></li>Azure<li>Git Action</li><li>GitHub</li><li>HTML and CSS</li></ul>
+<h3>Tech Stack</h3>
+<ul><li>Azure</li><li>Git Action</li><li>GitHub</li><li>HTML and CSS</li></ul>
 
 
 
