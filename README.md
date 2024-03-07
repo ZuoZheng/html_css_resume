@@ -1,12 +1,12 @@
 # First Azure Project in GitHub
-Purpose 
+<h3>Purpose</h3> 
 
 <p>Create a web version CV.</p>
 
 <p>Tech Stack</p>
-Azure
-Git Action
-GitHub
-HTML and CSS
+<ul><li></li>Azure<li>Git Action</li><li>GitHub</li><li>HTML and CSS</li></ul>
+
+
+
 
 
